@@ -1,7 +1,14 @@
-deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep-history: true
-  on:
-    branch: master
+language: go
+sudo: false
+dist: trusty
+git:
+  depth: false
+go:
+  - tip
+os:
+  - linux
+
+install:
+  - go get --tags extended  github.com/spf13/hugo
+script:
+  - ./deploy.sh
