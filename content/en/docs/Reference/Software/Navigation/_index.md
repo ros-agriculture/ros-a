@@ -7,3 +7,4 @@ description: Resources and information about navigation algorithms
 
 # Path following
 * [Pure Pursuit](https://github.com/FRC3184/purepursuit)
+* [Robot Mower 2D Navigation](https://github.com/inuex3/robot_mower_2dnav)
