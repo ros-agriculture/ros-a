@@ -17,10 +17,9 @@ resources:
 [![lawn tractor image](http://img.youtube.com/vi/-RF8hOKg6WU/0.jpg)](https://www.youtube.com/watch?v=-RF8hOKg6WU)
 
 ## Install
-If you don't have a Ubuntu computer running ROS.  This script https://github.com/linorobot/rosme provided by LinoRobot (https://linorobot.org/) will install ROS for you.
+If you don't have a Ubuntu computer running ROS. This [script](https://github.com/linorobot/rosme) provided by [LinoRobot](https://linorobot.org/) will install ROS for you.
 
 <pre>
-
 prompt$ cd catkin_ws/src
 prompt/catkin_ws/src$ git clone https://github.com/ros-agriculture/ros_lawn_tractor.git 
 prompt/catkin_ws/src$ git clone https://github.com/bsb808/geonav_transform.git
@@ -34,11 +33,9 @@ prompt/catkin_ws$ roslaunch lawn_tractor_sim lawn_tractor_sim.launch
 </pre>
 
 ## Docker
-If you have docker installed skip to Download Start File.<br />
-Install Docker <br />
-Docker install instructions - https://docs.docker.com/install/ <br />
+If you have docker installed skip to Download Start File. Otherwise, follow the [Docker installation instructions](https://docs.docker.com/install/).
 
-Download Start File
+### Download Start File
 <pre>
 prompt$ wget https://github.com/ros-agriculture/ros_lawn_tractor/blob/master/docker/start.sh
 prompt$ chmod +x start.sh
@@ -50,11 +47,7 @@ docker/prompt$ roslaunch lawn_tractor_sim lawn_tractor_sim.launch
 </pre>
 
 When rviz starts it doesn't load the rviz config file.  You will need to go to File and load sim config file.
-Sometimes when you press the File tab it just shows black.  You will need to stop rviz and relaunch the sim:
-https://youtu.be/yF0pPZHdhtI
-
-
-
+Sometimes when you press the File tab it just shows black.  You will need to stop rviz and relaunch the sim ([video](https://youtu.be/yF0pPZHdhtI))
 
 ## Licensing
 ros_lawn_tractor is released under the MIT license. 
