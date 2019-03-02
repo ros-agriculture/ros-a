@@ -1,4 +1,4 @@
-baseURL = "https://agritechrobotics.gitlab.io"
+baseURL = "http://rosagriculture.org/ros-a/"
 title = "ROSA"
 
 enableRobotsTXT = true
@@ -75,7 +75,7 @@ time_format_blog = "02.01.2006"
 [params]
 copyright = "ROS Agriculture"
 privacy_policy = ""
-github_repo = "https://github.com/agritech-robotics/agritech-website"
+github_repo = "https://github.com/ros-agriculture/ros-a"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
 gcs_engine_id = "002714214824939399291:5_ltfhcysmc"
