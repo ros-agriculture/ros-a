@@ -8,6 +8,8 @@ description: Information about distance measuring sensors
 # Radar
 
 * [True ground speed radar sensor](http://salesmanual.deere.com/sales/salesmanual/en_NA/tractors/attachments/electrical_and_lights/waterloo_common_radar_code_9023.html)
+* [Groud speed sensing, Dickey John](http://www.dickey-john.com/products/agriculture/ground-speed-sensing/)
+* [AS5048A High-Resolution Position Sensor](https://ams.com/as5048a)
 
 # Ultrasonic
 
