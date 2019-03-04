@@ -7,6 +7,9 @@ description: >
 ---
 
 # ROS Documentation
+You can download a prebuilt image for a raspberry pi or vitural machine here: [Ubiquity Robotics Download](https://downloads.ubiquityrobotics.com/)
+
+If you would like to install ROS on your Ubuntu machine we use the install script from [Linorobot](https://github.com/linorobot/rosme).
 
 * [Coordinate Frames for Mobile Platforms](http://www.ros.org/reps/rep-0105.html)
 
