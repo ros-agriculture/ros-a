@@ -57,7 +57,7 @@ anchor = "smart"
 [languages]
 [languages.en]
 title = "ROS Agriculture"
-description = "Empowering the farmers"
+description = "An ecosystem to empower farmers with robotic tools."
 languageName ="English"
 # Weight used for sorting.
 weight = 1
