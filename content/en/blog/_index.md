@@ -1,5 +1,5 @@
 ---
-title: "Docsy Blog"
+title: "ROS Agriculture Blog"
 linkTitle: "Blog"
 menu:
   main:
