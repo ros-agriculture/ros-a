@@ -7,7 +7,7 @@ menu:
 
 <!--add blocks of content here to add more sections to the community page -->
 <p>			
-<h2>Core Values</h2><br />
+<h2>Core Values</h2>
 <ul>
 	<li>Good for Humans - Are we reasonable sure it will not make things worse.</li>
 	<li>Philosophy of Truth - The best predictor of tomorrow is truth today.</li>
