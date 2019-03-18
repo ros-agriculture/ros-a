@@ -1,4 +1,4 @@
-baseURL = "http://rosagriculture.org/ros-a/"
+baseURL = "http://rosagriculture.org/"
 title = "ROSA"
 
 enableRobotsTXT = true
