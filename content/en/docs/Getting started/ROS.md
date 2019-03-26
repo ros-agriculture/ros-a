@@ -3,15 +3,16 @@ title: "ROS"
 linkTitle: "ROS"
 date: 2017-01-05
 description: >
-#  An introdution to ROS
+ An introdution to ROS
  
+---
+
+# Learning ROS
  * [ROS Tutorials on http://wiki.ros.org](http://wiki.ros.org/ROS/Tutorials)
  * [Johns Hopkins University - ROS Short Course](https://dscl.lcsr.jhu.edu/home/courses/ros_short_course_fall_2017/)
  * [The Construct - Robot Ignite Acadamy](https://www.robotigniteacademy.com)
----
 
 # ROS Documentation
-
 * [ROS Wiki](http://wiki.ros.org)
 * [Coordinate Frames for Mobile Platforms](http://www.ros.org/reps/rep-0105.html)
 
