@@ -9,7 +9,8 @@ Robotic path planning in the field of agrculture is largely focused on area cove
 
 * [Coverage Path Planning: The Boustrophedon Decomposition](https://www.ri.cmu.edu/publications/coverage-path-planning-the-boustrophedon-decomposition/) - Howie Choset, Philippe Pignon
 * [Morse Decompositionsfor Coverage Tasks](http://biorobotics.ri.cmu.edu/papers/paperUploads/A028807.pdf) - Ercan U. Acar, Howie Choset, Alfred A. Rizzi, Prasad N. Atkar, Douglas Hull
-
+* [Optimal Field Coverage Path Planning on 2D and 3D Surfaces](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?httpsredir=1&article=3239&context=etd) - Jian Jin, Iowa State University
+* [Complete Coverage Path Planning in an Agricultural Environment](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?httpsredir=1&article=3053&context=etd) - Theresa Marie Driscoll, Iowa State University
 
 Other resources on coverage path planning:
 * [Coverage and Search Algorithms](http://www2.cs.siu.edu/~hexmoor/classes/CS404-S09/Coverage.pdf) - Southern Illinois University
