@@ -1,6 +1,6 @@
 ---
 title: "ROS Lawn Tractor"
-linkTitle: "LawnTractor"
+linkTitle: "Lawn Tractor"
 weight: 8
 description: >
   ROS Lawn tractor resources.
