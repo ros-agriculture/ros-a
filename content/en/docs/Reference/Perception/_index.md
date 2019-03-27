@@ -6,7 +6,7 @@ description: >
   A collection of ag perception resources.
 ---
 
-## Examples projects
+# Examples projects
 * [Crop weed detection](https://www.youtube.com/watch?v=-XgxiC04hUI)
 * [Crop row detection](https://youtu.be/0VIwuCaTHPM)
 
@@ -15,7 +15,7 @@ description: >
 * [Training and Deployment Framework for Semantic Segmentation](https://github.com/PRBonn/bonnet)
 * [Getting Started with ROS on Jetson Nano](https://www.stereolabs.com/blog/ros-and-nvidia-jetson-nano/)
 
-## Learning resources
+### Learning resources
 * [Machine Learning resources](https://github.com/ngEdmundas/awesome-technology/wiki/Machine-Intelligence)
 * [Great Tutorial for using Movidius stick on Raspberry Pi](https://www.pyimagesearch.com/2018/02/19/real-time-object-detection-on-the-raspberry-pi-with-the-movidius-ncs/)
 
