@@ -6,11 +6,11 @@ description: >
   A collection of ag perception resources.
 ---
 
-# Examples projects
+### Examples projects
 * [Crop weed detection](https://www.youtube.com/watch?v=-XgxiC04hUI)
 * [Crop row detection](https://youtu.be/0VIwuCaTHPM)
 
-## ROS packages for machine learning and AI
+### ROS packages for machine learning and AI
 * [YOLO ROS: Real-Time Object Detection for ROS](https://github.com/leggedrobotics/darknet_ros)
 * [Training and Deployment Framework for Semantic Segmentation](https://github.com/PRBonn/bonnet)
 * [Getting Started with ROS on Jetson Nano](https://www.stereolabs.com/blog/ros-and-nvidia-jetson-nano/)
@@ -19,10 +19,10 @@ description: >
 * [Machine Learning resources](https://github.com/ngEdmundas/awesome-technology/wiki/Machine-Intelligence)
 * [Great Tutorial for using Movidius stick on Raspberry Pi](https://www.pyimagesearch.com/2018/02/19/real-time-object-detection-on-the-raspberry-pi-with-the-movidius-ncs/)
 
-## Hardware
+### Hardware
 * [3D camera survey from ROS Industrial](https://rosindustrial.org/3d-camera-survey/)
 
 
-## Software
-
+### Software
+* [Clouderizer - Cloud IDE for Data Scientists](https://clouderizer.com/)
 
