@@ -6,7 +6,7 @@ description: >
   A collection of ag perception resources.
 ---
 
-### Examples projects
+### Examples Projects
 * [Crop weed detection](https://www.youtube.com/watch?v=-XgxiC04hUI)
 * [Crop row detection](https://youtu.be/0VIwuCaTHPM)
 
