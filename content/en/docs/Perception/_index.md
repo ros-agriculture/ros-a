@@ -6,6 +6,12 @@ description: >
   A collection of ag perception resources.
 ---
 
+### ROS
+* [Computer Vision and Perception Discussion](https://discourse.ros.org/c/perception)
+* [ROS Perception Github](https://github.com/ros-perception)
+* [Move-It Perception Pipeline Tutorial](http://docs.ros.org/kinetic/api/moveit_tutorials/html/doc/perception_pipeline/perception_pipeline_tutorial.html)
+* [Perception Tutorial from The Construct](https://www.youtube.com/watch?v=49eNObyWjzg)
+
 ### Examples Projects
 * [Crop weed detection](https://www.youtube.com/watch?v=-XgxiC04hUI)
 * [Crop row detection](https://youtu.be/0VIwuCaTHPM)
