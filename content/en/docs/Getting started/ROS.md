@@ -46,7 +46,7 @@ In this example, we will build and bundle the hello world simulation workspace f
 
 * In the docker image, go to the workspace folder: 
 
-`cd aws-robomaker-sample-application-helloworld/simulation_w`
+`cd aws-robomaker-sample-application-helloworld/simulation_ws`
 
 * Run the following commands to update and install dependencies:
 
