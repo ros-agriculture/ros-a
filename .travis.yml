@@ -9,6 +9,6 @@ os:
   - linux
 
 install:
-  - go get --tags extended  github.com/spf13/hugo
+  - go get --tags extended  github.com/gohugoio/hugo
 script:
   - ./deploy.sh
