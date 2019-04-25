@@ -1,6 +1,6 @@
 language: go
 sudo: false
-dist: trusty
+dist: xenial
 git:
   depth: false
 go:
@@ -9,8 +9,6 @@ os:
   - linux
 
 install:
-  - go get github.com/tdewolff/parse
-  - go get github.com/tdewolff/minify
   - go get --tags extended  github.com/gohugoio/hugo
 script:
   - ./deploy.sh
