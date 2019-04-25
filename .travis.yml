@@ -9,6 +9,8 @@ os:
   - linux
 
 install:
+  - npm install -g postcss-cli
+  - npm install -g autoprefixer
   - go get --tags extended  github.com/gohugoio/hugo
 script:
   - ./deploy.sh
