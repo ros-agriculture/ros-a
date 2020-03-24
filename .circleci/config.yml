@@ -1,0 +1,22 @@
+# CircleCI 2.0 configuration file
+version: 2
+
+general:
+  branches:
+    only:
+     - master
+     
+jobs:
+  build:
+    docker:
+      - image: nubonetics/hugo-node
+
+    #### TEMPLATE_NOTE: go expects specific checkout path representing url
+    #### expecting it in the form of
+    ####   /go/src/github.com/circleci/go-tool
+    ####   /go/src/bitbucket.org/circleci/go-tool
+    working_directory: /go/src/github.com/{{ORG_NAME}}/{{REPO_NAME}}
+    steps:
+      - checkout
+      - run: cd /go/src/github.com/{{ORG_NAME}}/{{REPO_NAME}}
+      - run: ./deploy.sh
